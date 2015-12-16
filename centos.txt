@@ -1,0 +1,2 @@
+xclock
+yum install xorg-x11-apps.x86_64
